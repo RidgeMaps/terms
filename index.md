@@ -1,6 +1,6 @@
 # Ridge – Terms & Conditions
 
-Last updated: 05/12/2025
+Last updated: 04/12/2025
 
 ## 1. Agreement to Terms
 Ridge Maps (referred to herein as "Ridge" or the "App") offers a mobile application ("Ridge"). By accepting these Terms & Conditions, you agree that you use Ridge contingently with the terms set forth herein.
@@ -87,7 +87,7 @@ Questions about these Terms may be directed through the App Store listing.
 
 # Ridge – Privacy Policy
 
-Last updated: 05/12/2025
+Last updated: 04/12/2025
 
 ## 1. Information We Collect
 Ridge collects two types of information:
