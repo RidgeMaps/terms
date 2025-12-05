@@ -43,14 +43,14 @@ Ridge does not require account creation and does not collect personal identifyin
 ---
 
 ## 7. Data Collection & Privacy
-Ridge does not collect personal data.  
-Anonymous crash logs or diagnostics may be collected by Apple to improve app stability.  
-See the Ridge Privacy Policy for more details.
+Ridge does not collect direct personal identifiers, such as your name, email address, or phone number. We may collect anonymous usage data and device identifiers for the sole purpose of analytics and improving the app.
+Anonymous crash logs or diagnostics may be collected by Apple and our third-party services to improve app stability and performance.
+See the Ridge Privacy Policy for more details on the limited data we collect.
 
 ---
 
 ## 8. Third-Party Data & Accuracy
-Ridge uses map and ski-area data from third-party or community sources.  
+Ridge uses map and ski-area data from third-party or community sources.
 The developer does not guarantee that any information displayed in the App, including but not limited to maps, trail status, lift operations, or estimated skiing durations, is accurate, complete, or up-to-date.
 All such information, including time estimates, is provided for general guidance only and may vary due to user skill level, conditions, operational changes, or data inaccuracies.
 Accordingly, the developer cannot be held liable for any errors, omissions, delays, or inaccuracies in the displayed information, nor for any consequences arising from reliance on it.
@@ -59,10 +59,10 @@ Accordingly, the developer cannot be held liable for any errors, omissions, dela
 
 ## 9. Limitation of Liability
 To the maximum extent permitted by law, the developer is not liable for any injury, accident, or loss arising from use of Ridge, including but not limited to:
-- skiing accidents  
-- incorrect navigation  
-- reliance on map, trail, lift, or duration data
-- device issues while skiing  
+- Skiing accidents  
+- Incorrect navigation  
+- Reliance on map, trail, lift, or duration data
+- Device issues while skiing  
 
 Use of Ridge is entirely at your own risk.
 
@@ -75,7 +75,7 @@ The App's content, features, or functionality may change at any time without not
 
 ## 11. Updates to Terms
 These Terms may be updated periodically.  
-If these Terms & Conditions are updated, you will be prompted to review and accept the revised terms in order to continue using the SkiNav app.
+If these Terms & Conditions are updated, you will be prompted to review and accept the revised terms in order to continue using the Ridge app.
 
 ---
 
@@ -102,13 +102,14 @@ Ridge uses Firebase Analytics (Google Analytics 4) to collect anonymous usage an
 - App interaction patterns
 - Session duration
 - Device type and OS version
+- Device ID
 - Crash and stability information
 - Approximate user location (city and country) derived from the user's IP address
 
 #### IP-Address Handling (Google Analytics 4)
 Google Analytics 4 does not log or store full IP addresses by employing masking. For users located in the EU, IP data is processed solely to generate approximate location information (such as city and country) on servers within the EU. The IP address is then immediately discarded before any data is sent to other Analytics processing servers, which may be located outside the EU, including in the United States. At no point are full IP addresses retained, stored, or accessible to the developer.
 
-No personally identifiable information is stored or accessible to the developer.
+No direct personal identifiers, such as name, email address, or phone number, are stored or accessible to the developer.
 
 ---
 
@@ -142,16 +143,17 @@ Ridge uses:
 ### **Firebase Analytics (Google)**
 Used solely for anonymous usage statistics and performance insights.  
 Firebase may collect:
-- device model  
+- Device model
+- Device ID  
 - OS version  
-- app version  
-- interaction patterns  
-- crash/diagnostic information
-- coarse geo-location derived from IP address (the full IP address is not logged or stored)
+- App version  
+- Interaction patterns  
+- Crash/diagnostic information
+- Coarse geo-location derived from IP address (the full IP address is not logged or stored)
 
-Firebase does **not** receive personal information such as name, email, or identifiers.
+Firebase does **not** receive direct identifiers such as name, email, or phone number, which would directly reveal your identity.
 
-Firebase Analytics acts as a data processor on our behalf. Processing is governed by Google’s Data Processing Agreement and the use of EU Standard Contractual Clauses (SCCs) to safeguard international data transfers outside the UK/EU. Google may process data on servers located outside the UK or EU (including the United States). These transfers rely on GDPR-approved safeguards.
+Firebase Analytics acts as a data processor on our behalf. Processing is governed by Google’s Data Processing Agreement and the use of EU Standard Contractual Clauses (SCCs) to safeguard international data transfers outside the UK or EU. Google may process data on servers located outside the UK or EU (including the United States). These transfers rely on GDPR-approved safeguards.
 
 ---
 
@@ -187,5 +189,5 @@ Because Ridge does not collect identifiable personal data, these rights may have
 ---
 
 ## 8. Contact
-For privacy concerns or questions, you may contact the developer through the SkiNav app Store listing.
+For privacy concerns or questions, you may contact the developer through the Ridge App Store listing.
 
