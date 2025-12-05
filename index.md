@@ -38,7 +38,7 @@ Location data is processed on the device and is not transmitted or stored by the
 ---
 
 ## 6. No Account Required
-Ridge does not require account creation and does not collect personal identifying information.
+Ridge does not require account creation, and as such, we do not ask for or collect direct personal identifiers like your name, email, or phone number.
 
 ---
 
